@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-sum\bin\Debug\net7.0\programm-sum.exe
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-sum\bin\Debug\net7.0\programm-sum.deps.json
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-sum\bin\Debug\net7.0\programm-sum.runtimeconfig.json
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-sum\bin\Debug\net7.0\programm-sum.dll
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-sum\bin\Debug\net7.0\programm-sum.pdb
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-sum\obj\Debug\net7.0\programm-sum.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-sum\obj\Debug\net7.0\programm-sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-sum\obj\Debug\net7.0\programm-sum.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-sum\obj\Debug\net7.0\programm-sum.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-sum\obj\Debug\net7.0\programm-sum.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-sum\obj\Debug\net7.0\programm-sum.dll
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-sum\obj\Debug\net7.0\refint\programm-sum.dll
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-sum\obj\Debug\net7.0\programm-sum.pdb
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-sum\obj\Debug\net7.0\programm-sum.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-sum\obj\Debug\net7.0\ref\programm-sum.dll
