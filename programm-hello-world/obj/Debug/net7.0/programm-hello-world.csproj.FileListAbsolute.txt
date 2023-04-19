@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-hello-world\bin\Debug\net7.0\programm-hello-world.exe
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-hello-world\bin\Debug\net7.0\programm-hello-world.deps.json
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-hello-world\bin\Debug\net7.0\programm-hello-world.runtimeconfig.json
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-hello-world\bin\Debug\net7.0\programm-hello-world.dll
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-hello-world\bin\Debug\net7.0\programm-hello-world.pdb
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-hello-world\obj\Debug\net7.0\programm-hello-world.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-hello-world\obj\Debug\net7.0\programm-hello-world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-hello-world\obj\Debug\net7.0\programm-hello-world.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-hello-world\obj\Debug\net7.0\programm-hello-world.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-hello-world\obj\Debug\net7.0\programm-hello-world.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-hello-world\obj\Debug\net7.0\programm-hello-world.dll
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-hello-world\obj\Debug\net7.0\refint\programm-hello-world.dll
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-hello-world\obj\Debug\net7.0\programm-hello-world.pdb
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-hello-world\obj\Debug\net7.0\programm-hello-world.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-hello-world\obj\Debug\net7.0\ref\programm-hello-world.dll
