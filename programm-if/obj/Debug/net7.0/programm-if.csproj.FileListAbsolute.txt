@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-if\bin\Debug\net7.0\programm-if.exe
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-if\bin\Debug\net7.0\programm-if.deps.json
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-if\bin\Debug\net7.0\programm-if.runtimeconfig.json
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-if\bin\Debug\net7.0\programm-if.dll
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-if\bin\Debug\net7.0\programm-if.pdb
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-if\obj\Debug\net7.0\programm-if.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-if\obj\Debug\net7.0\programm-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-if\obj\Debug\net7.0\programm-if.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-if\obj\Debug\net7.0\programm-if.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-if\obj\Debug\net7.0\programm-if.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-if\obj\Debug\net7.0\programm-if.dll
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-if\obj\Debug\net7.0\refint\programm-if.dll
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-if\obj\Debug\net7.0\programm-if.pdb
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-if\obj\Debug\net7.0\programm-if.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\remoted_repositories\Projects\programm-if\obj\Debug\net7.0\ref\programm-if.dll
